@@ -1,40 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Some Component
 
-## Getting Started
+`<section class="sc-60b5c40f-0 dePgcG">
 
-First, run the development server:
+  <div class="sticky">
+    <img alt="Sleep Tracking" sizes="100vw" srcset="https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 640w,
+    https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 750w,
+    https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 828w,
+    https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 1080w,
+    https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 1200w,
+    https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 1920w,
+    https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 2048w,
+    https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png 3840w"
+    src="https://cdn.speedsize.com/3f711f28-1488-44dc-b013-5e43284ac4b0/https://s3.amazonaws.com/public-web-assets.ultrahuman.com/web_v2/backgrounds/sleep-extended-v2.png"
+    decoding="async"
+    data-nimg="fill"
+    loading="lazy"
+    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent; filter: brightness(0.15);">
+      <div class="text-content" style="opacity: 0;">
+        <h2 class="sc-a0c94ff5-0 euXUej">Health companion<br>of your dreams</h2>
+          <p>Track and decode your REM, Deep, and Light stages of sleep.</p>
+      </div>
+  </div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</section>`
